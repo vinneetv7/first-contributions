@@ -35,6 +35,7 @@
 - [Harish Kushwah](https://github.com/Harish-Kushwah) ❤️ INDIA
 - [Krish Sehgal](https://github.com/krish-sehgal) 
 - [Ionecum](https://github.com/ionecum)
+- [Vineet Varshney](https://github.com/vinneetv7)
 - [AM-Shafin](https://github.com/am-safin) 👊
 - [Rakeshkandhi](https://github.com/rakeshkandhi) 
 - [TH-Raju](https://github.com/TH-Raju)
